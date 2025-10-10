@@ -2,3 +2,5 @@
 
 
 buraya basit seviyede yaptığım projeleri yükleyeceğim 
+
+html , css , js kullanarak denemeler gerçeklestireceğim
